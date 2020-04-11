@@ -61,7 +61,7 @@ test:
     - pytest -s -rxs -v rpy2/tests  # [not win]
 
 about:
-  home: https://rpy2.bitbucket.io/
+  home: https://github.com/rpy2/rpy2
   license: GPL-2.0
   license_family: GPL
   license_file: gpl-2.0.txt
